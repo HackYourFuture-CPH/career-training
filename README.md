@@ -8,9 +8,9 @@ This repository collects all the info and material used to support you & the com
 
 | Week | Topic | Preparation | Learning Goals | Homework |
 | ---- | ----- | ---- |----------|--------|
-| 1. | **Danish job market, job search & general info**  <br> The first session where we talk to the current graduating students about to how to find a job and introduce them to the different stakeholders of the job market. | [Preparation](/week1/preparation.md) | [Learning Goals](/week1/lesson-plan.md) | [Homework](/week1/homework.md) |
-| 2. | **Alumni Support Session #1(2h)**  <br> This session is for alumni that need guidence on how to write CV and job applications | [Preparation](/week2/preparation.md) | [Learning Goals](/week2/lesson-plan.md) | [Homework](/week2/homework.md) |
-| 3. | **Alumni Support Session #2(2h)**  <br> This session is for alumni that need feedback on their CV and job applications and give the possibility of mock interviews | [Preparation](/week3/preparation.md) | [Learning Goals](/week3/lesson-plan.md) | [Homework](/week3/homework.md) |
+| 1. | **Danish job market, job search & general info**  <br> Initial session where we introduce general info about the job market & prepare you for the job search. | [Preparation](/week1/preparation.md) | [Lesson Plan](/week1/lesson-plan.md) | [Homework](/week1/homework.md) |
+| 2. | **The Jobseeker Toolkit**  <br> This session is used to provide each student with feedback on their CV, Linkedin page & GitHub page. | [Preparation](/week2/preparation.md) | [Lesson Plan](/week2/lesson-plan.md) | [Homework](/week2/homework.md) |
+| 3. | **Technical Moock Interview**  <br> This session is for practicing technical interviews and receiving feedback from peers and technical volunteers. | [Preparation](/week3/preparation.md) | [Lesson Plan](/week3/lesson-plan.md) | [Homework](/week3/homework.md) |
 
 ## Learning Goals
 
@@ -22,4 +22,5 @@ This repository collects all the info and material used to support you & the com
 - Know how to make your Linkedin page attractive to recruiters.
 - Know how to make your GitHub page attractive to recruiters.
 - Learn how to perform well in a technical interview.
+- 🚑 How to handle Job Rejection and Job Anxiety
 
