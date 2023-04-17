@@ -11,7 +11,7 @@
 ## Do
 - Add your current email address, Linkedin profile and GitHub profile to your Slack profile
 - Read the [CV Guide by HYF](https://github.com/HackYourFuture-CPH/yourpersonalbrand/blob/main/yourcurriculum.md) (20mins)
-- Fill your CV data into [HYF CV TEMPLATES](https://docs.google.com/presentation/d/1N1qxLclHbbDLCCQAXprUXyz_AryNm45Hqce4kZemr9w/copy) (❗️ mandatory for attending the next session)
+- Make a copy of, and fill your CV data into [HYF CV TEMPLATES](https://docs.google.com/presentation/d/1N1qxLclHbbDLCCQAXprUXyz_AryNm45Hqce4kZemr9w/copy) (❗️ mandatory for attending the next session)
 - Write a short BIO text about yourself - about 500-600 characters and add it to your CV (❗️ mandatory for attending the next session)
 - Create a [CodeWars](https://www.codewars.com/) profile and complete this list of katas: https://www.codewars.com/collections/hyf-js 
 - Add the Codewars profile to your GitHub profile page in this format: ![Codewars](https://www.codewars.com/users/Sana-Shabeel/badges/micro)
