@@ -9,10 +9,19 @@
 - [How to polish your Linkedin & GitHub](https://www.youtube.com/watch?v=c_bPIFiWUpI) (50mins)
 
 ## Do
-- Leftover exercises from session
-- Create a job-seeking plan from Google Sheet template
-- Populate job-seeking plan with at least 6 internships/jobs over 3 weeks
 - Read the [CV Guide by HYF](https://github.com/HackYourFuture-CPH/yourpersonalbrand/blob/main/yourcurriculum.md) (20mins)
-- Fill your CV data into [HYF CV TEMPLATES](https://docs.google.com/presentation/d/1N1qxLclHbbDLCCQAXprUXyz_AryNm45Hqce4kZemr9w/copy) (❗️ mandatory for next session)
-- Write a short bio text about yourself - 500-600 characters (❗️ mandatory for next session)
-- Create a [CodeWars](https://www.codewars.com/) profile and complete this list of katas: https://www.codewars.com/collections/hyf-js
+- Fill your CV data into [HYF CV TEMPLATES](https://docs.google.com/presentation/d/1N1qxLclHbbDLCCQAXprUXyz_AryNm45Hqce4kZemr9w/copy) (❗️ mandatory for attending the next session)
+- Write a short BIO text about yourself - about 500-600 characters (❗️ mandatory for attending the next session)
+- Create a [CodeWars](https://www.codewars.com/) profile and complete this list of katas: https://www.codewars.com/collections/hyf-js 
+
+## Github homework:
+Separate some of the homework projects and apps into their own repositories. Perform this as a combination of copy/pasting from your HW repo and git commands - so you practise handling git too. You will need to look into `git clone`, `git remote add` and some other commands. 
+Each should have a comprehensive title and a nice short description. As a minimum, you should have separate repositories for these:
+- Spirit Animal name generator
+- hyfBay shop
+- The movies filtering (add a simple UI at some point)
+- Fastest Presser
+- Weather App
+- Giphy Search
+- Git Search
+- To Do app
