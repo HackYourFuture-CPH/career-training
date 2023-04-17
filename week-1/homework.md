@@ -9,6 +9,7 @@
 - [How to polish your Linkedin & GitHub](https://www.youtube.com/watch?v=c_bPIFiWUpI) (50mins)
 
 ## Do
+- Add your current email address, Linkedin profile and GitHub profile to your Slack profile
 - Read the [CV Guide by HYF](https://github.com/HackYourFuture-CPH/yourpersonalbrand/blob/main/yourcurriculum.md) (20mins)
 - Fill your CV data into [HYF CV TEMPLATES](https://docs.google.com/presentation/d/1N1qxLclHbbDLCCQAXprUXyz_AryNm45Hqce4kZemr9w/copy) (❗️ mandatory for attending the next session)
 - Write a short BIO text about yourself - about 500-600 characters (❗️ mandatory for attending the next session)
