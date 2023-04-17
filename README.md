@@ -10,7 +10,7 @@ This repository collects all the info and material used to support you & the com
 | ---- | ----- | ---- |----------|--------|
 | 1. | **Danish job market, job search & general info**  <br> Initial session where we introduce general info about the job market & prepare you for the job search. | [Preparation](/week-1/preparation.md) | [Lesson Plan](/week-1/lesson-plan.md) | [Homework](/week-1/homework.md) |
 | 2. | **The Jobseeker Toolkit**  <br> This session is used to provide each student with feedback on their CV, Linkedin page & GitHub page. | [Preparation](/week-2/preparation.md) | [Lesson Plan](/week-2/lesson-plan.md) | [Homework](/week-2/homework.md) |
-| 3. | **Technical Moock Interview**  <br> This session is for practicing technical interviews and receiving feedback from peers and technical volunteers. | [Preparation](/week-3/preparation.md) | [Lesson Plan](/week-3/lesson-plan.md) | [Homework](/week-3/homework.md) |
+| 3. | **Technical Mock Interview**  <br> This session is for practicing technical interviews and receiving feedback from peers and technical volunteers. | [Preparation](/week-3/preparation.md) | [Lesson Plan](/week-3/lesson-plan.md) | [Homework](/week-3/homework.md) |
 
 ## Learning Goals
 
