@@ -16,7 +16,7 @@
 - Create a [CodeWars](https://www.codewars.com/) profile and complete this list of katas: https://www.codewars.com/collections/hyf-js 
 - Add the Codewars profile to your GitHub profile page in this format: ![Codewars](https://www.codewars.com/users/Sana-Shabeel/badges/micro)
 - :octocat: Polish your GitHub - [good example](https://github.com/alina-kho) | [example 2](https://github.com/Sana-Shabeel)
-- :large_blue_diamond: Polish your Linkedin - [good example](https://www.linkedin.com/in/ricardobaguiar/) | [example 2](https://www.linkedin.com/in/cecastosic/)
+- :large_blue_diamond: Polish your Linkedin - [good example](https://www.linkedin.com/in/ricardobaguiar/) | [example 2](https://www.linkedin.com/in/cecastosic/) | [example 3](https://www.linkedin.com/in/saloumehsarabi/)
 ## Github homework:
 Separate some of the homework projects and apps into their own repositories. Perform this as a combination of copy/pasting from your HW repo and git commands - so you practise handling git too. You will need to look into `git clone`, `git remote add` and some other commands. 
 Each should have a comprehensive title and a nice short description. As a minimum, you should have separate repositories for these:
