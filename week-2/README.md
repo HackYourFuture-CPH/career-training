@@ -10,6 +10,7 @@ The goal of this session is to give every student feedback on their CV, Linkedin
 
 ### Learning goals
 
+- What does a standard recruitment process look like?
 - How do CV, Linkedin & GitHub play together?
 - How do recruiters look at it? What do they look for?
 - Reviewing CV’s, Linkedin’s & GitHub pages in groups
