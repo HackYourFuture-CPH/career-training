@@ -4,9 +4,9 @@ The goal of this session is to give every student feedback on their CV, Linkedin
 
 ### Materials
 
-- [Preparation](/preparation.md)
-- [Lesson Plan](/lesson-plan.md)
-- [Homework](/homework.md)
+- [Preparation](./preparation.md)
+- [Lesson Plan](./lesson-plan.md)
+- [Homework](./homework.md)
 
 ### Learning goals
 
