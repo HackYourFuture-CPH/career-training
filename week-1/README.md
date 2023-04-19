@@ -4,9 +4,9 @@ The goal of this session is to prepare you for searching jobs in an effective ma
 
 ### Materials
 
-- [Preparation](/preparation.md)
-- [Lesson Plan](/lesson-plan.md)
-- [Homework](/homework.md)
+- [Preparation](./preparation.md)
+- [Lesson Plan](./lesson-plan.md)
+- [Homework](./homework.md)
 
 ### Learning goals
 
