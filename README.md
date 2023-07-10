@@ -1,4 +1,4 @@
-# HYF JOB HUB - Career Training resources
+# JOB HUB - Career Training resources
 
 ## Introduction
 
