@@ -1,6 +1,6 @@
 # Session contents
 
-Based on previous iterations, we address a standard hiring process and look under the hood of a hiring process at a larger company. From there, we extrapolate to medium-sized and small comapnies and how their hiring processes might differ.
+Based on previous iterations, we address a standard hiring process and look under the hood of a hiring process at a larger company. From there, we extrapolate to medium-sized and small companies and how their hiring processes might differ.
 
 ### The Corporate Hiring Process
 
