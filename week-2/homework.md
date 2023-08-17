@@ -10,3 +10,6 @@
 - Add the certificate on Linkedin ;) 
 
 - ⚠️ On the **Thursday** after this class you will also receive another assignment, which will be used for the **Technical Mock Interview** session ([Career Training Week 3](/week-3/README.md). The challenge will be posted in your Slack channel. ⚠️
+
+## Optional
+Go through this free, online tutorial about maximising your GitHub profile and post in the class channel what you learned. https://www.eddiejaoude.io/course-github-profile-landing?r_done=1
