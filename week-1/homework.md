@@ -15,7 +15,7 @@
 - Write a short BIO text about yourself - about 500-600 characters and add it to your CV (❗️ mandatory for attending the next session)
 - Create a [CodeWars](https://www.codewars.com/) profile and complete this list of katas: https://www.codewars.com/collections/hyf-js 
 - Add the Codewars profile to your GitHub profile page in this format: ![Codewars](https://www.codewars.com/users/Sana-Shabeel/badges/micro)
-- :octocat: Polish your GitHub - [good example](https://github.com/alina-kho) | [example 2](https://github.com/Sana-Shabeel)
+- :octocat: Polish your GitHub - [good example](https://github.com/danJecu) | [example 2](https://github.com/Sana-Shabeel)
 - :large_blue_diamond: Polish your Linkedin - [good example](https://www.linkedin.com/in/ricardobaguiar/) | [example 2](https://www.linkedin.com/in/cecastosic/) | [example 3](https://www.linkedin.com/in/saloumehsarabi/)
 ## Github homework:
 Separate some of the homework projects and apps into their own repositories. Perform this as a combination of copy/pasting from your HW repo and git commands - so you practise handling git too. You will need to look into `git clone`, `git remote add` and some other commands. 
