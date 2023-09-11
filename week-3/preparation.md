@@ -2,6 +2,9 @@
 
 In order to prepare for your Technical Mock-Interview, please take a look at the following resources.
 
+## READ
+- What is the ["STAR" answer format](https://www.amazon.jobs/en/landing_pages/in-person-interview)?
+
 ### General question catalog for interviewees
 - What is the tech stack of your company?
 - What do the internal processes at your company look like? (workflow, growth plan, onboarding plan)
