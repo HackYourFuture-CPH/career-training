@@ -1,8 +1,11 @@
 ## Preparation
 
 ### Do
-- Fill out the "Career Survey" posted in your class' Slack channel.
-- (optional) Take the ["Working Preference" test](https://www.jobindex.dk/persontypetest) from Jobindex (in Danish) 
+- Fill out the **"Career Status" survey** posted in your class' Slack channel.
+
+(optional) Take these personality tests:
+- ["The Four Tendencies" test](https://gretchenrubin.com/four-tendencies/)
+- ["The Saboteur Assessment" test](https://assessment.positiveintelligence.com/saboteur/overview)
 
 ### Read
 - Read about what [a Union is in Denmark](https://www.workindenmark.dk/working-in-denmark/terms-of-employment/trade-unions)
