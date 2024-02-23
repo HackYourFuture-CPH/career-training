@@ -1,6 +1,6 @@
 # Homework Week 1
 
-These articles, videos and tasks are not a suggestion, but **mandatory**. They require less time than your regular homeworks, but are just as important.
+These articles, videos and tasks are not a suggestion, but **mandatory**. They require less time than your regular homeworks, but are just as important. We expect you to use the remainder of your 30 hours on finishing all the homework assignments you haven't yet completed.
 
 ## Read
 
