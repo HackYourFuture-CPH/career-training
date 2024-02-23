@@ -4,6 +4,7 @@ In order to prepare for your Technical Mock-Interview, please take a look at the
 
 ## READ
 - What is the ["STAR" answer format](https://www.amazon.jobs/en/landing_pages/in-person-interview)?
+- Check out the [Developer Interview Training by Google](https://grow.google/certificates/interview-warmup/)
 
 ### General question catalog for interviewees
 - What is the tech stack of your company?
