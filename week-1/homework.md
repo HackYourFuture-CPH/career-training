@@ -37,6 +37,6 @@ Each should have a comprehensive title and a nice short description. As a minimu
 ### How to submit the homework
 
 Please send the following to Christopher on Slack:
-- The reslt of your two personality tests
+- The result of your two personality tests
 - A link to your GitHub page
 - A link to your CV with sharing rights set to "edit"
