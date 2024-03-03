@@ -5,7 +5,7 @@
 - [Freecodecamp React Interview Questions](https://www.freecodecamp.org/news/react-interview-questions-to-know/)
 
 ## Do
-- Small [Frontendmentor.io](https://www.frontendmentor.io/) challenge: You can choose between [this](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db) or [this](https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8). (but you can also do both - good practice 🙃)
+- Add a small [Frontendmentor.io](https://www.frontendmentor.io/) project to your GitHub profile: You can choose between [this](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db) or [this](https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8). (but you can also do both - good practice 🙃)
 - Create an account on **Hackerrank** and take the [React Basics certifcation](https://www.hackerrank.com/skills-verification/react_basic)
 - Add the certificate on Linkedin ;)
 - Start taking a look at the [Week 3 Preparation materials](https://github.com/HackYourFuture-CPH/career-training/blob/main/week-3/preparation.md) 
