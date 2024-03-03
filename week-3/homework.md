@@ -1,6 +1,8 @@
 # Homework Week 3
 
-Now it's time to prepare for the Final Project 🏔 Do two more projects for your GitHub page and then it's time to get serious about yoour first, big collaborative project.
+Now it's time to prepare for the Final Project 🏔 
+Having your mealsharing app deployed & working is mandatory to join the Final Project.
+You should also do two more projects for your GitHub page and then it's time to get serious about your first, big collaborative project.
 
 
 ## Do
