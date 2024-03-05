@@ -14,3 +14,8 @@ You should also do two more projects for your GitHub page and then it's time to 
 - Update the readme.md file of your **Mealsharing app**. Here's a good [example](https://github.com/DanJecu/meal-sharing-app)
 - Advanced project from Frontend Mentor: You can choose between: [this](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca) and [this](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ)
 - Prepare for the Final Project
+
+## How to submit homework
+
+- Send a link to your Loom video to **Gabi** (via Slack)
+- Send the link to your MealSharing App repo to **Gabi** (via Slack)
