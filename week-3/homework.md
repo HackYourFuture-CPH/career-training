@@ -12,8 +12,9 @@ You should also do two more projects for your GitHub page and then it's time to 
 - Got to [Loom.com](https://www.loom.com/) and download the app or plugin.
 - Using Loom, record a **short video** of yourself demo'ing your Mealsharing app.
 - Update the readme.md file of your **Mealsharing app**. Here's a good [example](https://github.com/DanJecu/meal-sharing-app)
+- Embed your Loom video in the Readme.
 - Advanced project from Frontend Mentor: You can choose between: [this](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca) and [this](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ)
-- Prepare for the Final Project
+- Prepare for the Final Project by paying attention to announcements in your team channel :)
 
 ## How to submit homework
 
