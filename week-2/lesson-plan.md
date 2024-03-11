@@ -1,6 +1,8 @@
 # Session contents
 
-Based on previous iterations, we address a standard hiring process and look under the hood of a hiring process at a larger company. From there, we extrapolate to medium-sized and small companies and how their hiring processes might differ.
+Based on previous iterations, we address a standard hiring process and look under the hood of a hiring process at a larger company. From there, we extrapolate to medium-sized and small companies and how their hiring processes might differ. In the second part of the session we focus on giving feedback on the trainees' CV, Linkedin & GitHub pages in small groups.
+
+> **Note for Lead Teacher** An extensive slideshow exists for this session [in this folder](https://drive.google.com/drive/folders/1pshCqFdkk2TI1R8Fz9WsQNP5qO6JXiu6?usp=drive_link). Ask the HYF to get access to a copy, if you don't have access yet.
 
 ### The Corporate Hiring Process
 
