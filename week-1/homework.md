@@ -36,7 +36,7 @@ Each should have a comprehensive title and a nice short description. As a minimu
 
 ### How to submit the homework
 
-Please send the following to Team Responsible on Slack:
+Please send the following to the Team Responsible on Slack:
 - The result of your two personality tests
 - A link to your GitHub page
 - A link to your CV with sharing rights set to "edit"
