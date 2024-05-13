@@ -18,5 +18,5 @@ You should also do two more projects for your GitHub page and then it's time to 
 
 ## How to submit homework
 
-- Send a link to your Loom video to **Gabi** (via Slack) **latest 14.03.2024, 12:00 PM**
-- Send the link to your MealSharing App repo to **Gabi** (via Slack) **latest 14.03.2024, 12:00 PM**
+- Send a link to your Loom video to **Team Responsible** (via Slack) 
+- Send the link to your MealSharing App repo to **Team Responsible** (via Slack) 
