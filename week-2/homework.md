@@ -21,7 +21,7 @@ We recommend looking through this YouTube channel of Eddie Jaoude. he has great 
 
 ### How to submit the homework
 
-Please send the following to Christopher on Slack:
+Please send the following to the Team Responsible on Slack:
 - Add your Hackerrank certification on Linkedin.
 - Send a link to your chosen Frontendmentor project repo
 - Send a link to your Mealsharing App repo
